@@ -1,0 +1,14 @@
+ads.properties
+/.idea
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+/clicky-goo.iml
